@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Extensión de treebanks de NLP a lenguas afines
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sergio Alejandro
+    family-names: Laverde Peña
+    email: sergio.laverde@udea.edu.co
+    affiliation: Universidad de Antioquia
+repository-code: >-
+  https://github.com/sergiolaverde0/extension_nlp_lenguas_afines
+abstract: >-
+  Evaluación de si es posible mejorar el rendimeinto de los
+  tokenizadores, lematizadores, y separadores de palabras,
+  en las lenguas menos habladas si se extienden sus
+  treebanks con aquellos de lenguas de la misma familia
+keywords:
+  - NLP
+  - Stanza
+  - Treebank
+  - Less spoken language
+license: CC-BY-NC-SA-4.0
